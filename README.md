@@ -3,7 +3,7 @@ Bu uygulama, rastgele bir parola üretir ve bu parolanın güvenlik seviyesini h
 
 # Ekran Görüntüleri
 
-![github](/assets/screen)
+![github](/assets/screen.jpg)
 
 
 # Kullanılan Teknolojiler
