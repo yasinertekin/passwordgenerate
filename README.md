@@ -1,6 +1,11 @@
 <h1 align="center">Password Generater  </h1>
 Bu uygulama, rastgele bir parola üretir ve bu parolanın güvenlik seviyesini hesaplar.
 
+# Ekran Görüntüleri
+
+![github](/src/assets/screen.png)
+
+
 # Kullanılan Teknolojiler
 React Native
 
