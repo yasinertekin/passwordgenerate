@@ -4,6 +4,8 @@ Bu uygulama, rastgele bir parola üretir ve bu parolanın güvenlik seviyesini h
 # Ekran Görüntüleri
 
 ![github](/assets/screen.jpg)
+![github](/assets/screen1.jpg)
+
 
 
 # Kullanılan Teknolojiler
